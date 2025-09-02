@@ -8,7 +8,7 @@ requests
 tgcrypto
 yt-dlp
 olefile
-lk21
+lk21==1.2.80
 filetype
 tldextract
 Flask
@@ -16,3 +16,4 @@ gunicorn==20.1.0
 Jinja2
 werkzeug
 itsdangerous
+
